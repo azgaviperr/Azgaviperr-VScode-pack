@@ -1,0 +1,91 @@
+# Change Log
+
+All notable changes to the azgaviperr-vscode-pack extension pack will be documented in this file.
+
+Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+## [Unreleased]
+
+### Added
+
+- 4ops.terraform
+- ahmadawais.emoji-log-vscode
+- amazonwebservices.aws-toolkit-vscode
+- AquaSecurityOfficial.trivy-vulnerability-scanner
+- azure-automation.vscode-azureautomation
+- batisteo.vscode-django
+- bierner.lit-html
+- bierner.markdown-preview-github-styles
+- blodwynn.featurehighlight
+- bridgecrew.checkov
+- charliermarsh.ruff
+- chouzz.vscode-better-align
+- christian-kohler.npm-intellisense
+- davidanson.vscode-markdownlint
+- dennisvhest.npm-browser
+- donjayamanne.githistory
+- dotjoshjohnson.xml
+- eamodio.gitlens
+- editorconfig.editorconfig
+- esbenp.prettier-vscode
+- fabiospampinato.vscode-open-in-github
+- fantasy.vp-preview
+- foxundermoon.shell-format
+- github.codespaces
+- github.copilot-chat
+- github.copilot
+- github.vscode-github-actions
+- github.vscode-pull-request-github
+- gitlab.gitlab-workflow
+- golang.go
+- gruntfuggly.todo-tree
+- hashicorp.terraform
+- hediet.vscode-drawio
+- infracost.infracost
+- knisterpeter.vscode-commitizen
+- lizebang.bash-extension-pack
+- mads-hartmann.bash-ide-vscode
+- marp-team.marp-vscode
+- mechatroner.rainbow-csv
+- mhutchie.git-graph
+- mikestead.dotenv
+- ms-azuretools.vscode-azurefunctions
+- ms-azuretools.vscode-azureresourcegroups
+- ms-azuretools.vscode-azureterraform
+- ms-azuretools.vscode-azurevirtualmachines
+- ms-azuretools.vscode-docker
+- ms-ceintl.vscode-language-pack-fr
+- ms-python.autopep8
+- ms-python.debugpy
+- ms-python.flake8
+- ms-python.pylint
+- ms-python.python
+- ms-python.vscode-pylance
+- ms-vscode-remote.remote-containers
+- ms-vscode-remote.remote-ssh-edit
+- ms-vscode-remote.remote-ssh
+- ms-vscode.azure-account
+- ms-vscode.makefile-tools
+- ms-vscode.powershell
+- ms-vscode.remote-explorer
+- ms-vsliveshare.vsliveshare
+- rangav.vscode-thunder-client
+- redhat.ansible
+- redhat.vscode-commons
+- redhat.vscode-yaml
+- redhat.fabric8-analytics
+- remisa.shellman
+- rogalmic.bash-debug
+- rohinivsenthil.terrastate
+- rpinski.shebang-snippets
+- rust-lang.rust-analyzer
+- ryanluker.vscode-coverage-gutters
+- shardulm94.trailing-spaces
+- sonarsource.sonarlint-vscode
+- tamasfe.even-better-toml
+- task.vscode-task
+- timonwong.shellcheck
+- ue.alphabetical-sorter
+- usernamehw.errorlens
+- wengerk.highlight-bad-chars
+- yzhang.markdown-all-in-one
